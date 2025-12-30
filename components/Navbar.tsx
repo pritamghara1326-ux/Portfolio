@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex-shrink-0">
             <Link href="/" className="text-2xl font-bold gradient-text">
-              Pritam Ghara
+              Portfolio
             </Link>
           </div>
           <div className="hidden md:block">
